@@ -2,8 +2,7 @@ package sportscar
 
 import (
 	"fmt"
-	"example.com/car"
-)
+    "github.com/snkydvl/vehicle-lab/car")
 
 type SportsCar struct {
 	*car.Car
