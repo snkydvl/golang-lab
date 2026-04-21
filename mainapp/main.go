@@ -5,9 +5,9 @@ import (
 	"os"
 	"os/exec"
 	
-	"example.com/transport"
-	"example.com/car"
-	"example.com/sportscar"
+	"github.com/snkydvl/vehicle-lab/transport"
+    "github.com/snkydvl/vehicle-lab/car"
+    "github.com/snkydvl/vehicle-lab/sportscar"
 )
 
 func clearScreen() {
