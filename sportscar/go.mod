@@ -1,8 +1,5 @@
-module example.com/sportscar
+module github.com/snkydvl/vehicle-lab/car
 
 go 1.21
 
-require example.com/car v0.0.0
-
-replace example.com/car => ../car
-replace example.com/transport => ../transport
+require github.com/snkydvl/vehicle-lab/transport v0.0.0
