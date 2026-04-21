@@ -1,5 +1,5 @@
-module github.com/snkydvl/vehicle-lab/car
+module github.com/snkydvl/vehicle-lab/sportscar
 
 go 1.21
 
-require github.com/snkydvl/vehicle-lab/transport v0.0.0
+require github.com/snkydvl/vehicle-lab/car v0.0.0
