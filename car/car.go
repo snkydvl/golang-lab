@@ -2,7 +2,7 @@ package car
 
 import (
 	"fmt"
-	"example.com/transport"
+	"github.com/snkydvl/vehicle-lab/transport"
 )
 
 type Car struct {
