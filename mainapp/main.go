@@ -5,9 +5,9 @@ import (
 	"os"
 	"os/exec"
 	
-	"github.com/snkydvl/vehicle-lab/transport"
-    "github.com/snkydvl/vehicle-lab/car"
-    "github.com/snkydvl/vehicle-lab/sportscar"
+	"github.com/snkydvl/golang-lab/transport"
+    "github.com/snkydvl/golang-lab/car"
+    "github.com/snkydvl/golang-lab/sportscar"
 )
 
 func clearScreen() {

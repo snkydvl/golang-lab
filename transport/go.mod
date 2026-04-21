@@ -1,3 +1,3 @@
-module github.com/snkydvl/vehicle-lab/transport
+module github.com/snkydvl/golang-lab/transport
 
 go 1.21

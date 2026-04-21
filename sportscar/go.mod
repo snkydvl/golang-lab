@@ -1,7 +1,7 @@
-module github.com/snkydvl/vehicle-lab/sportscar
+module github.com/snkydvl/golang-lab/sportscar
 
 go 1.21
 
-require github.com/snkydvl/vehicle-lab/car v0.0.0
-replace github.com/snkydvl/vehicle-lab/car => ../car
-replace github.com/snkydvl/vehicle-lab/transport => ../transport
+require github.com/snkydvl/golang-lab/car v0.0.0
+replace github.com/snkydvl/golang-lab/car => ../car
+replace github.com/snkydvl/golang-lab/transport => ../transport
